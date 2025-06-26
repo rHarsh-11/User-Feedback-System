@@ -47,7 +47,7 @@ cd server
 npm install
 
 # Create .env file
-cp .env.example .env
+touch .env
 
 # Add your MongoDB Atlas URI to .env
 MONGO_URI=your_mongodb_atlas_connection_string
