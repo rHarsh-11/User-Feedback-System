@@ -36,7 +36,7 @@ server/       # Node/Express backend
 ### 📦 1. Clone the repository
 
 ```bash
-git clone https://github.com/rHarsh-11/user-feedback-system.git
+https://github.com/rHarsh-11/User-Feedback-System.git
 cd user-feedback-system
 ```
 
