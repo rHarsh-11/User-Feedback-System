@@ -21,7 +21,9 @@ function App() {
       </main>
 
       <footer className="text-center text-xs text-gray-500 py-6">
-        &copy; {new Date().getFullYear()} Feedback System. All rights reserved.
+        &copy; {new Date().getFullYear()} Feedback System.
+        <br />
+        Assginement submitted by Harsh Rana
       </footer>
     </div>
   );
