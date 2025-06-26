@@ -37,7 +37,7 @@ server/       # Node/Express backend
 
 ```bash
 https://github.com/rHarsh-11/User-Feedback-System.git
-cd user-feedback-system
+cd User-Feedback-System
 ```
 
 ### 🖥 2. Setup Backend
