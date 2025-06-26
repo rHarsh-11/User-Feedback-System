@@ -102,21 +102,4 @@ PORT=5000
 
 > Returns category-wise counts for chart visualization
 
----
-
-## 📦 Feedback Data Model (Mongoose)
-
-```js
-{
-  name: String,
-  email: String,
-  feedback: String,
-  category: String, // suggestion, bug report, etc.
-  status: String, // pending, reviewed, resolved
-  createdAt: Date,
-  updatedAt: Date
-}
-```
-
----
 
